@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## 我有一个梦想  希望持有dream的每个人都能变得富有
 
-You can use the [editor on GitHub](https://github.com/Benefitspace/dream/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+这是一项有社会学实验，我们构建了一个循环的持有人增值模式
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 什么是dream
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+dreamcoin牧羊犬是一个由社区推动且公平启动的代币
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# 静态奖励
+静态收益模式，通过持有dream币获得源源不断的被动收益，只要市场上有交易你就能增加币的数量，自动复利，拿的越久赚的越多。
+## 共振模式
+依托强大的bsc公链，交易不断增加资金池，从而避免了价格归零的风险。
+### 烧伤模式
+交易燃烧10%筹码，5%分给所有持有人，5%加入资金池，你拿出的一小份，让生态持续盘活。
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 产品路线图
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Benefitspace/dream/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

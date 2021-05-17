@@ -45,6 +45,8 @@ https://bscscan.com/tx/0xa6c7405e402e79f9d8c77bd3f4ba22f883ba678c6b5e967f804c1cf
 
 https://bscscan.com/tx/0xd0048751fae05c8a6efbcaa85dcbdce96b0b7afdbe043d5d7523d1df21bac73f 剩余流动性LP已经打入黑洞
 
+LOGO设计排上日程
+
 
 ##### 6.2021年6月份    赋能代币，持续升值
 ##### 7.策划中

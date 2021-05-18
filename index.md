@@ -8,7 +8,6 @@ dreamcoin是一个由社区推动且公平启动的代币
 
 代币合约地址：0x3bfe9f4e25ed2793610bd78afe766871f62aa11c
 走势图查看：https://poocoin.app/tokens/0x3bfe9f4e25ed2793610bd78afe766871f62aa11c
-推特：https://twitter.com/Dream21996999
 
 
 
@@ -49,7 +48,7 @@ https://bscscan.com/tx/0xd0048751fae05c8a6efbcaa85dcbdce96b0b7afdbe043d5d7523d1d
 LOGO设计排上日程
 
 5-18  LOGO设计完成 已经提交bsc审核
-      启用推特https://twitter.com/Dream21996999
+      
 
 
 ##### 6.2021年6月份    赋能代币，持续升值

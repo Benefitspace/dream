@@ -6,9 +6,9 @@
 
 dreamcoin是一个由社区推动且公平启动的代币
 
-代币合约地址：0x3bfe9f4e25ed2793610bd78afe766871f62aa11c
-走势图查看：https://poocoin.app/tokens/0x3bfe9f4e25ed2793610bd78afe766871f62aa11c
-推特：https://twitter.com/dreamcoin4
+######代币合约地址：0x3bfe9f4e25ed2793610bd78afe766871f62aa11c
+######走势图查看：https://poocoin.app/tokens/0x3bfe9f4e25ed2793610bd78afe766871f62aa11c
+######推特：https://twitter.com/_dreamcoiner_
 
 
 
@@ -50,8 +50,8 @@ https://bscscan.com/tx/0xd0048751fae05c8a6efbcaa85dcbdce96b0b7afdbe043d5d7523d1d
 LOGO设计排上日程
 
 5-18  LOGO设计完成 已经提交bsc审核
-      推特账号https://twitter.com/dreamcoin4
-      30%的dream已经转入黑洞地址 剩余会尽可能分散获取更多持有用户  推特暂时被锁，可能短期无法及时回复问题，我在处理。很多人会说我持币量的问题，最后我会剩下1%给我自己，剩余的会全部派发出去，请放心，项目还在前期，需要期待。
+      ######推特账号https://twitter.com/_dreamcoiner_
+      ######30%的dream已经转入黑洞地址 剩余会尽可能分散获取更多持有用户  推特暂时被锁，可能短期无法及时回复问题，我在处理。很多人会说我持币量的问题，最后我会剩下1%给我自己，剩余的会全部派发出去，请放心，项目还在前期，需要期待。
 
 
 

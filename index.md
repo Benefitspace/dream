@@ -7,7 +7,9 @@
 dreamcoin是一个由社区推动且公平启动的代币
 
 ######代币合约地址：0x3bfe9f4e25ed2793610bd78afe766871f62aa11c
+
 ######走势图查看：https://poocoin.app/tokens/0x3bfe9f4e25ed2793610bd78afe766871f62aa11c
+
 ######推特：https://twitter.com/_dreamcoiner_
 
 

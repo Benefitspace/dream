@@ -7,5 +7,5 @@ dreamcoin是一个由社区推动且公平启动的代币
 
 
 
-推特：（@_dreamcoiner_）
+推特："（@_dreamcoiner_)"
 详见网址：https://adream.finance/

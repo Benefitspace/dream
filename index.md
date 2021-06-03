@@ -10,8 +10,6 @@ dreamcoin是一个由社区推动且公平启动的代币
 
 ######走势图查看：https://poocoin.app/tokens/0x3bfe9f4e25ed2793610bd78afe766871f62aa11c
 
-######推特：（@_dreamcoiner_）
-
 ######项目白皮书 https://github.com/Benefitspace/dream/blob/main/Dream%E5%8D%8F%E8%AE%AE%E7%99%BD%E7%9A%AE%E4%B9%A6.pdf
 
 

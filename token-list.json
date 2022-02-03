@@ -1,25 +1,20 @@
 {
-  "name": "Dreamcome",
-  "logoURI": "https://github.com/Benefitspace/dream/blob/gh-pages/128.png?raw=true",
-  "keywords": [
-      "defi",
-      "Dreamcome",
-      "yield"
-    ],
-    "timestamp": "2020-09-01T01:40:34.305Z",
-    "tokens": [
-      {
-      "chainId": 1,
-      "address": "0x3bfE9F4e25ed2793610BD78aFe766871F62AA11c",
-      "name": "Dreamcome",
-      "symbol": "Dream",
-      "decimals": 18,
-      "logoURI": "https://github.com/Benefitspace/dream/blob/gh-pages/128.png?raw=true"
-      }
-    ],
+    "name": "dream Tokens List",
     "version": {
-      "major": 0,
-      "minor": 0,
-      "patch": 0
-    }
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "logoURI": "https://raw.githubusercontent.com/Benefitspace/dream/gh-pages/128.png",
+    "timestamp": "2021-07-25 00:00:00.000+00:00",
+    "tokens": [
+        {
+            "chainId": 137,
+            "address": "0x3bfE9F4e25ed2793610BD78aFe766871F62AA11c",
+            "name": "Dreamcome",
+            "symbol": "Dream",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Benefitspace/dream/gh-pages/128.png"
+        }
+    ]
 }
